@@ -7,5 +7,10 @@ rtt 8/7/20
 --
 I created the original readme file.  It appears to currently be associated with the master branch.
 I think I created a readme-edits file, but I'm not sure.  I opened the readme file and selected the option to edit the file
+(What actually happened was I edited the readme file and saved it in the readme-edits branch, which didn't effect the readme file in the master branch.)
 I notice that the option, "commit directly to the readme-edits branch" is selected below
 Everything from line 7 to here has been added prior to selecting the green "commit changes" selection below.
+--
+After editing the readme file and saving the revised file in the readme-edits branch, I reviewed the readme files in both the master and the readme-edits branches.
+Then I activated a Pull Request and finally merged the readme file in the readme-edit branch with the readme file in the master branch.
+I think this replaced the readme file in the master branch with the readme file in the readme-edit branch.
